@@ -6,6 +6,13 @@ __Recommender Systems__
 
 + Simple Content-based Recommender with Movies
 
-__Medical Related Projects__
++ Collaborative Filtering
 
+__Pytorch Projects__
+
++ Simple Linear Regression
+
++ MNIST in Pytorch
+
+__Social Media Analytics
 
