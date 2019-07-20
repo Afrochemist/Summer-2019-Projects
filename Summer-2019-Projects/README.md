@@ -8,6 +8,8 @@ __Recommender Systems__
 
 + Collaborative Filtering
 
++ Hybrid Recommender with Movie Dataset
+
 __Pytorch Projects__
 
 + Simple Linear Regression
