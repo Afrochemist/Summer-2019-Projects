@@ -16,6 +16,10 @@ __Pytorch Projects__
 
 + MNIST in Pytorch
 
++ Style Transferring in Pytorch
+
 __Social Media Analytics
 
 + Yelp Review Sentiment Analysis
+
+
