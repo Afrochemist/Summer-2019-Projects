@@ -18,7 +18,7 @@ __Pytorch Projects__
 
 + Style Transferring in Pytorch
 
-__Social Media Analytics
+__Social Media Analytics__
 
 + Yelp Review Sentiment Analysis
 
