@@ -1,6 +1,6 @@
 # Summer-2019-Projects
 
-From May 2019 to Aug 2019 I will work a set of projects regarding the following below:
+From May 2019 to Sept 2019 I will work a set of projects regarding the following below:
 
 __Recommender Systems__
 
@@ -21,5 +21,9 @@ __Pytorch Projects__
 __Social Media Analytics__
 
 + Yelp Review Sentiment Analysis
+
+__OpenCV__
+
++ 
 
 
