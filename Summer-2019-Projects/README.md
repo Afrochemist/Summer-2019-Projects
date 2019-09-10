@@ -24,6 +24,8 @@ __Social Media Analytics__
 
 __OpenCV__
 
-+ 
++ Photo Maniupulation 
+
++ Feature Extraction with Images
 
 
