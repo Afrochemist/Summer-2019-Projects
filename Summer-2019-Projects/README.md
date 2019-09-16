@@ -18,13 +18,15 @@ __Pytorch Projects__
 
 + Style Transferring in Pytorch
 
-__Social Media Analytics__
+__Natural Language Processing__
 
-+ Yelp Review Sentiment Analysis
++ Sentiment Analysis with IMDB Reviews
+
++ Simple chatbot
 
 __OpenCV__
 
-+ Photo Maniupulation 
++ Photo Manipulation 
 
 + Feature Extraction with Images
 
