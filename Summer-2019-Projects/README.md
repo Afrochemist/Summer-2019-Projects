@@ -20,8 +20,6 @@ __Pytorch Projects__
 
 __Natural Language Processing__
 
-+ Sentiment Analysis with IMDB Reviews
-
 + Simple chatbot
 
 __OpenCV__
